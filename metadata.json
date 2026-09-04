@@ -2,5 +2,7 @@
   "name": "Kweng - Story Books & Webtoons",
   "description": "Story books, manhwa, novels, and webtoon reader platform with offline downloads, chapter updates, bookmarks, and reader dashboard.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
